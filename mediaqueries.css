@@ -110,5 +110,13 @@
   .text-container {
     text-align: justify;
   }
-
+  .about-pic {
+    border-radius: 20rem;
+    height: 17rem;
+    width: 17rem;
+    margin-top: 2rem;
+  }
+  .section__text{
+    padding-top: 7rem;
+  }
 }
