@@ -186,7 +186,7 @@ section {
 .section__text {
   align-self: center;
   text-align: center;
-  padding-top: 2rem;
+  /* padding-top: 2rem; */
 }
 
 .section__text p {
