@@ -84,6 +84,7 @@ a:hover {
   height: 24px;
   width: 30px;
   cursor: pointer;
+  /* font-size: 30px; */
 }
 
 .hamburger-icon span {
@@ -98,6 +99,7 @@ a:hover {
   top: 100%;
   right: 0;
   background-color: white;
+  border-radius: 1rem;
   width: fit-content;
   max-height: 0;
   overflow: hidden;
@@ -108,7 +110,7 @@ a:hover {
   display: block;
   padding: 10px;
   text-align: center;
-  font-size: 1.5rem;
+  font-size: 1rem;
   color: black;
   text-decoration: none;
   transition: all 0.3 ease-in-out;
@@ -146,9 +148,9 @@ a:hover {
   transform: none;
 }
 
-#image{
+/* #image{
   border-radius: 1rem;
-}
+} */
 
 /* SECTIONS */
 
